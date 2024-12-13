@@ -1,0 +1,36 @@
+.partners {
+  margin: 100px auto;
+}
+
+.partners_info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 78px 0;
+}
+
+.partner {
+  padding: 46px 33px 60px;
+  text-align: center;
+  transition: 0.5s;
+  color: #fff;
+  text-decoration: none;
+}
+
+.partner p {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  padding-top: 22px;
+}
+
+.partner a {
+  color: #fff;
+  /* color: #5B5B5B; */
+}
+
+.partner:hover,
+.partner a:hover {
+  background-color: #f2f2f2;
+  color: #5b5b5b;
+}

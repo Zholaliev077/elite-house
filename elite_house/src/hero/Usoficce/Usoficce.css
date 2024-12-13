@@ -1,0 +1,18 @@
+.office {
+  width: 100%;
+}
+
+.officeh1 {
+  display: flex;
+  padding-left: 5%;
+  font-size: 50px;
+  color: #5b5b5b;
+}
+
+.picmap {
+  display: flex;
+  padding: 0 200px;
+  width: 60%;
+  
+  /* padding: 80px; */
+}
